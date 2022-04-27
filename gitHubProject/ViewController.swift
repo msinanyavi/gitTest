@@ -14,8 +14,8 @@ class ViewController: UIViewController {
     
         
         print("This is test for git")
-        print("new test")
         print("test2")
+        print("test for add code check")
         
     }
 
